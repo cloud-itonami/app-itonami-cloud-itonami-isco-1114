@@ -1,4 +1,5 @@
 # cloud-itonami-isco-1114
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 1114. This app is not produced, reviewed or endorsed by the ILO.
 
 Open Occupation Blueprint for **ISCO-08 1114**: Senior Officials of Special-interest Organizations.
 
